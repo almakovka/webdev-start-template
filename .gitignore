@@ -10,7 +10,9 @@
 *~
 *.sass-cache
 node_modules/
+npm-debug.log
 .tmp/
+dist
 
 # OS or Editor folders
 .DS_Store

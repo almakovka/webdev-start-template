@@ -11,3 +11,7 @@ img {
 * {
   box-sizing: border-box;
 }
+
+.greeting {
+  text-align: center;
+}
