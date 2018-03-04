@@ -4,8 +4,8 @@ const configFile = {
     dist: "dist",
     srcFiles: [
       "src/**/*",
-      "!src/{assets,data,layouts,pages,partials}",
-      "!src/{assets,data,layouts,pages,partials}/**/*",
+      "!src/{data,layouts,pages,partials}",
+      "!src/{data,layouts,pages,partials}/**/*",
       "src/assets/**/*",
       "!src/assets/{img,js,css}",
       "!src/assets/{img,js,css}/**/*"
